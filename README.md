@@ -9,7 +9,7 @@ code .
 
 # VSCODE
 '''
-conda crteate -p venv python=3.8 -y
+conda create -p venv python=3.8 -y
 '''
 
 '''
@@ -30,4 +30,3 @@ touch README.md
 pip install -r requirements.txt
 '''
 
-gdg
