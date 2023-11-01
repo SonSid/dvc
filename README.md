@@ -30,3 +30,9 @@ touch README.md
 pip install -r requirements.txt
 '''
 
+# Initalizing DVC
+
+'''
+dvc init
+'''
+
